@@ -1,0 +1,3 @@
+open <Destination path> -hostkey="<SSH Key>"
+put <source path>
+exit
